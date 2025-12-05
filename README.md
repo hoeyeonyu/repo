@@ -76,7 +76,7 @@ skills: ["JavaScript", "React", "Node.js", "Python", "AWS", "Docker"]
 ```typescript
 projects: [
   {
-    name: "Project Name",
+    name: "프로젝트 이름",
     description: "Brief description of what the project does and its impact",
     link: "https://github.com/yourusername/project",
     skills: ["React", "Node.js", "AWS"], // Technologies used
